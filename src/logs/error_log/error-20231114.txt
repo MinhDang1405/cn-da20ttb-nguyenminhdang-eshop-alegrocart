@@ -1,0 +1,30 @@
+time: 14-11-14 13:56:45 (UTC)
+MySQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+Error No: 1064
+UPDATE country SET country_status = '0' WHERE country_id != '38' AND country_id NOT IN ()
+Path: /alegrocart/doanchuyennganh/?controller=country&action=enableDisable
+Query String: controller=country&action=enableDisable
+HTTP Referer: http://localhost/alegrocart/doanchuyennganh/?controller=country
+IP:::1 Remote Host:Admin
+##################################################
+
+time: 14-11-14 13:56:46 (UTC)
+MySQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+Error No: 1064
+UPDATE country SET country_status = '0' WHERE country_id != '38' AND country_id NOT IN ()
+Path: /alegrocart/doanchuyennganh/?controller=country&action=enableDisable
+Query String: controller=country&action=enableDisable
+HTTP Referer: http://localhost/alegrocart/doanchuyennganh/?controller=country
+IP:::1 Remote Host:Admin
+##################################################
+
+time: 14-11-14 13:56:48 (UTC)
+MySQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+Error No: 1064
+UPDATE country SET country_status = '0' WHERE country_id != '38' AND country_id NOT IN ()
+Path: /alegrocart/doanchuyennganh/?controller=country&action=enableDisable
+Query String: controller=country&action=enableDisable
+HTTP Referer: http://localhost/alegrocart/doanchuyennganh/?controller=country
+IP:::1 Remote Host:Admin
+##################################################
+

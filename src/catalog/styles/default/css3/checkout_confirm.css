@@ -1,0 +1,93 @@
+#checkout .a, #checkout .b, #checkout .e {
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+#checkout .a td {
+  width: 33.3%;
+  vertical-align: top;
+}
+
+#checkout .d {
+  padding-bottom: 3px;
+}
+
+#checkout .a table, #checkout .c, #checkout .cur {
+  width: 100%;
+}
+#checkout .b table {
+	border-collapse: collapse;
+}
+#checkout .c td {
+	vertical-align: top;
+	padding: 5px 0px;
+}
+#checkout .c th {
+	border-bottom: 1px solid #BBBBBB;
+	height: 35px;
+}
+#checkout .f {
+	text-align: right;
+}
+#checkout .g {
+	margin-bottom: 2px;
+	font-weight: bold;
+	padding-left: 5px;
+}
+#checkout .h {
+	padding-left: 5px;
+}
+#checkout .totals {
+	width: 60px;
+}
+#checkout .f table {
+	width: 100%;
+}
+
+#checkout .left {
+	text-align: left;
+}
+
+#checkout .right {
+	text-align: right;
+}
+
+#checkout .center {
+	text-align: center;
+}
+#checkout .vendor{
+	font-size: smaller;
+	color: #0099FF;
+}
+.tax{
+	font-weight: bold;
+	color: #CC0000;
+}
+.checkout_price_old {
+	text-decoration: line-through;
+	text-align: right;
+	font-weight: 200;
+	font-size: 10px;
+}
+
+.checkout_price_new {
+	color: #FF0000;
+	font-size: 10px;
+	text-align: right;
+	font-weight: 200;
+	padding-left: 0px;
+}
+.buttons .rtext {
+  text-align: right;
+}
+.cc_form {
+	border: 3px solid #C1002B;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	margin-bottom: 10px;
+	padding: 2px;
+	background-color: #EEEEEE;
+	margin-top: 10px;
+}

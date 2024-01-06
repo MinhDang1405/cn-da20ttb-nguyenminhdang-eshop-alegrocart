@@ -1,0 +1,50 @@
+#contact {
+	margin-top: 0px;
+	padding-top: 10px;
+}
+
+#contact .a {
+	border: 1px solid #DDDDDD;
+	padding: 5px;
+	min-height: 50px; 
+	border-radius: 5px;
+}
+
+#contact > .a  {
+	overflow: auto;
+}
+
+#contact .b {
+	float: left;
+	width: 45%;
+}
+
+#contact .c {
+	float: right;
+	width: 45%;
+}
+
+#contact .c a {
+	color: #000000;
+}
+#contact .b .right, #contact .c .right {
+	float: right;
+}
+#contact .b .top {
+	vertical-align: top;
+}
+#contact .d {
+	margin-top: 10px;
+	padding: 5px; 
+	clear: both; 
+}
+
+#contact .d table {
+	width: 100%;
+}
+
+#contact .d table textarea {
+	width: 99%; 
+	height: 150px;
+	overflow: auto;
+}

@@ -1,0 +1,29 @@
+.display_options{
+	padding: 0px 0px 0px 2px;
+	margin-top: 0px;
+	font-size: 10px;
+	margin-bottom: 0px;
+}
+.display_optionsBottom{
+	padding-left: 0px;
+	margin-left: 0px;
+	height: 9px;
+	padding-bottom: 0px;
+	margin-bottom: 15px;
+}
+.display_options tr, td{
+	height: 12px;
+}
+.display_options .man_select{
+	width: 180px;
+}
+.display_options .button {
+	width: 190px;
+	text-align: center;
+}
+.display_options .filter, .display_options .order{
+	width: 60px;
+}
+#model select{
+	width: 180px;
+}

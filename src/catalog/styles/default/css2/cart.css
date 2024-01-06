@@ -1,0 +1,159 @@
+#cart .a {
+	width: 100%;
+	clear: both;
+	padding: 0px 2px 0px 2px;
+	border-collapse: collapse;
+}
+#cart .a tr:first-child {
+	border-bottom: 1px solid #BBBBBB;
+	height: 35px;
+}
+#cart .i {
+	text-align: center;
+	width: 50px;
+	vertical-align: middle;
+}
+#cart .c  {
+	text-align: center;
+	width: 50px;
+	vertical-align: top;
+}
+#cart .b {
+	text-align: center;
+	width: 50px;
+	vertical-align: top;
+}
+#cart .h {
+	text-align: center;
+	width: 50px;
+	vertical-align: middle;
+}
+#cart .d {
+	text-align: left;
+	vertical-align: top;
+	width: 140px;
+}
+#cart .j {
+	text-align: left;
+	vertical-align: middle;
+	width: 140px; 
+}
+#cart .l{
+	text-align: center;
+	vertical-align: middle;
+}
+#cart .k {
+	text-align: right;
+	color: #FF0000;
+	vertical-align: middle;
+}
+#cart .j span {
+	color: #FF0000;
+	vertical-align: super;
+	font-size: 10px;
+}
+#cart .f{
+	text-align: center;
+	vertical-align: top;
+	width: 30px;
+}
+#cart .g, #cart .e { 
+	padding-left: 5px;
+	text-align: right;
+	vertical-align: top;
+	width: 65px;
+}
+#cart .m {
+	text-align: right;
+	vertical-align: middle;
+}
+#cart .n {
+	right: 0px;
+	text-align: right;
+	clear: both;
+	float: right;
+	width: 100%;
+	padding-top: 5px;
+}
+#cart .n table {
+	display: inline-block;
+}
+#cart .o {
+	color: #FF0000;
+	clear: both;
+	font-size: 9px;
+	text-align: center;
+}
+#cart .s {
+	text-align: center;
+	width: 40px;
+	vertical-align: top;
+}
+#cart .t {
+	text-align: left;
+	vertical-align: middle;
+}
+#cart .u {
+	margin-top: 10px;
+	padding-top: 10px;
+	text-align: left;
+}
+#cart .right{
+	text-align: right;
+}
+#cart .tax{
+	font-weight: bold;
+	color: #CC0000;
+}
+#cart .totals{
+	border-top: 1px solid #BBBBBB;
+	height: 30px;
+}
+#cart .totals .m{
+	border-bottom: 1px solid #BBBBBB;
+}
+.cartprice_old {
+	text-decoration: line-through;
+	text-align: right;
+	font-weight: 200;
+	font-size: 10px;
+}
+.cartprice_new {
+	color: #FF0000;
+	font-size: 10px;
+	text-align: right;
+	font-weight: 200;
+	padding-left: 0px;
+}
+.buttons .center{
+	text-align: center;
+}
+#estimated_results .v {
+	margin-bottom: 2px;
+	font-weight: bold;
+	padding: 5px 0px 2px 5px;
+}
+#estimated_results .w {
+	padding: 5px;
+	margin-bottom: 10px;
+}
+#estimated_results .w table {
+	width: 100%;
+	margin-top: 5px;
+}
+#estimated_results .w table tr {
+	cursor: pointer;
+}
+#estimated_results .x {
+	padding-left: 20px;
+}
+#estimated_results .y {
+	text-align: right;
+	padding-right: 20px;
+}
+#estimated_results label {
+	display: block;
+	width: 100%;
+	height: 100%;
+	cursor: pointer;
+}

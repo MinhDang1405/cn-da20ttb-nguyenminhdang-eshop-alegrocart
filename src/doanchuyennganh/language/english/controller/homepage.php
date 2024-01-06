@@ -1,0 +1,59 @@
+<?php
+// Heading
+$_['heading_title']       = 'Home Page Entries';
+$_['heading_form_title']  = 'Home Page Entry:';
+$_['heading_description'] = 'You can edit homepage sessions here. You can have more than one home page entry, with only one being enabled at a time. When enabling a new entry, all existing entries are automatically disabled.';
+
+// Text
+$_['text_message']        = 'Success: You have updated homepage!';
+$_['text_image']          = 'Recommended Image Size: 175 x 175';
+$_['text_runtimes']		  = 'Enter Zero (0) for no limit, or -1 to disable home page module';
+$_['text_continous']      = 'If disabled, Flash will only run once!';
+$_['text_noflash']		= 'No Flash Selected';
+$_['text_no_image']       = 'No Image Selected';
+$_['text_browse']         = 'Browse File';
+$_['text_general']        = 'General Settings';
+$_['text_flash']          = 'Flash';
+$_['text_welcome_message']= 'Message';
+$_['text_welcome_image']  = 'Image';
+$_['text_slider']         = 'Slider';
+
+//Tabs
+$_['tab_name']		      = 'Name & Status';
+$_['tab_description']     = 'Settings';
+$_['tab_meta']            = 'Meta Tags';
+
+// Column
+$_['column_name']          = 'HomePage Name';
+$_['column_title']         = 'HomePage Title';
+$_['column_status']        = 'Status';
+$_['column_image']         = 'Image';
+$_['column_action']        = 'Action';
+
+//Entry
+$_['entry_name']           = 'HomePage Name:';
+$_['entry_title']          = 'HomePage Title:';
+$_['entry_status']         = 'Status:';
+$_['entry_description']    = 'Description:';
+$_['entry_meta_title']		= 'Meta Title:';
+$_['entry_meta_description']= 'Meta Description:';
+$_['entry_meta_keywords']	= 'Meta Keywords:';
+$_['entry_welcome']        = 'Welcome Message:';
+$_['entry_image']          = 'Image:';
+$_['entry_run_times']	   = 'Number of times to run:';
+$_['entry_flash']          = 'Flash:';
+$_['entry_flash_width']    = 'Flash Width:';
+$_['entry_flash_height']   = 'Flash Height:';
+$_['entry_flash_loop']     = 'Run Flash Continuous:';
+$_['entry_filename']       = 'Upload Flash File:';
+$_['entry_sortorder']		= 'Sort Order: ';
+
+// Button
+$_['button_add']           = 'Add';
+$_['button_remove']        = 'Remove';
+$_['button_upload']        = 'Upload File';
+// Error
+$_['error_name']            = '*Name must be between 1 and 64 characters!';
+$_['error_title']           = '* Title must be between 1 and 32 characters!';
+$_['error_permission']    = 'Warning: You do not have permission to modify homepage';
+?>

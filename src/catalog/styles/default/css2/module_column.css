@@ -1,0 +1,37 @@
+/* Column Modules */
+.module_column{
+	display: block;
+	cursor: pointer;
+	width: 194px;
+	padding: 0px 0px 0px 1px;
+	margin-top: 0px;
+	font-size: 10px;
+	margin-bottom: 0px;
+}
+.module_column p{
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+}
+.module_column .img{
+	text-align: center;
+}
+.module_column .add {
+	left: 1px;
+	padding-left: 12px;
+	padding-top: 2px;
+	padding-bottom: 10px;
+	vertical-align: bottom;
+	text-align: center;
+}
+.module_column .options{
+	text-align: center;
+	padding: 5px 0px;
+}
+.module_column .description{
+	padding: 2px 2px 0px 2px;
+	clear: both;
+}
+.module_column .vendor{
+	text-align: center;
+}
